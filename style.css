@@ -1,0 +1,49 @@
+body{background: linear-gradient(#88b06a, skyblue);}
+iframe{background-color: whitesmoke;
+    border-radius: 10pt;
+}
+h1{font-family: 'Righteous', cursive; font-weight: bolder;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+}
+h2{font-family: 'Righteous', Arial, Helvetica, sans-serif; font-weight: bolder;}
+h3{font-family: 'Righteous', Arial, Helvetica, sans-serif; font-weight: bolder;}
+h4{font-family: 'Righteous', Arial, Helvetica, sans-serif; font-weight: bolder;}
+p{
+    background-color: #A6BF94;
+    font-family: 'Righteous', Arial, Helvetica, sans-serif;
+    border-radius: 20pt;
+    font-size: larger;
+    padding: 5px;
+}
+div{
+    background-color: #a6bf94;
+    border-radius: 20pt;
+    border-style:dashed;
+    border-width: 0.3pt;
+    padding: 5px;
+}
+button{
+    font-family: 'Righteous', Helvetica, sans-serif; font-weight: bolder;
+    border-radius: 10pt;
+    background-color: rgb(136, 241, 192);
+    border-style: hidden;
+}
+a{
+    color: #0a1600;
+}
+img{
+    border-radius: 20pt;
+}
+#culo{
+    background-color: #007c8c;
+    font-family: 'Righteous', Arial, Helvetica, sans-serif;
+    border-radius: 5pt;
+    font-size: large
+}
+.odd{
+    color: red;
+}
+.even{
+    color: orange;
+}
